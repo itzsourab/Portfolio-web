@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7ed1531.css",
-    "main.js": "/static/js/main.ba1113e8.js",
-    "static/media/react.jpg": "/static/media/react.ca6808c018c74dd8998b.jpg",
-    "static/media/solvimate.png": "/static/media/solvimate.192ff3105e0510078b65.png",
-    "static/media/ryland-dean-rMyel7micAg-unsplash (1).jpg": "/static/media/ryland-dean-rMyel7micAg-unsplash (1).4e9f96df09539261cc4d.jpg",
-    "static/media/sundown.png": "/static/media/sundown.0806315a3454f2969f9c.png",
-    "static/media/ReegisterKaro.png": "/static/media/ReegisterKaro.d85ce1b3714e2e4d402e.png",
-    "static/media/ochi.png": "/static/media/ochi.cf33909b176090aad638.png",
-    "static/media/Managewise.png": "/static/media/Managewise.3263d1c7e7c541ca903d.png",
-    "static/media/react2 (2).jpg": "/static/media/react2 (2).12d47516b80a0514dde6.jpg",
-    "index.html": "/index.html",
-    "main.e7ed1531.css.map": "/static/css/main.e7ed1531.css.map",
-    "main.ba1113e8.js.map": "/static/js/main.ba1113e8.js.map"
+    "main.css": "/Portfolio-web/static/css/main.e7ed1531.css",
+    "main.js": "/Portfolio-web/static/js/main.c7ee320e.js",
+    "static/media/react.jpg": "/Portfolio-web/static/media/react.ca6808c018c74dd8998b.jpg",
+    "static/media/solvimate.png": "/Portfolio-web/static/media/solvimate.192ff3105e0510078b65.png",
+    "static/media/ryland-dean-rMyel7micAg-unsplash (1).jpg": "/Portfolio-web/static/media/ryland-dean-rMyel7micAg-unsplash (1).4e9f96df09539261cc4d.jpg",
+    "static/media/sundown.png": "/Portfolio-web/static/media/sundown.0806315a3454f2969f9c.png",
+    "static/media/ReegisterKaro.png": "/Portfolio-web/static/media/ReegisterKaro.d85ce1b3714e2e4d402e.png",
+    "static/media/ochi.png": "/Portfolio-web/static/media/ochi.cf33909b176090aad638.png",
+    "static/media/Managewise.png": "/Portfolio-web/static/media/Managewise.3263d1c7e7c541ca903d.png",
+    "static/media/react2 (2).jpg": "/Portfolio-web/static/media/react2 (2).12d47516b80a0514dde6.jpg",
+    "index.html": "/Portfolio-web/index.html",
+    "main.e7ed1531.css.map": "/Portfolio-web/static/css/main.e7ed1531.css.map",
+    "main.c7ee320e.js.map": "/Portfolio-web/static/js/main.c7ee320e.js.map"
   },
   "entrypoints": [
     "static/css/main.e7ed1531.css",
-    "static/js/main.ba1113e8.js"
+    "static/js/main.c7ee320e.js"
   ]
 }
